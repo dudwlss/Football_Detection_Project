@@ -1,0 +1,10 @@
+names:
+- ball
+- players
+- others
+- goalkeeper
+- referee
+nc: 5
+test: /content/football/test/images
+train: /content/football/train/images
+val: /content/football/valid/images
